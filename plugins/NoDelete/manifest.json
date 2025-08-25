@@ -1,7 +1,7 @@
 {
-	"name": "NoDelete",
-	"description": "Keeps deleted messages, untill you dismiss them or restart the app",
-	"authors": [{ "name": "meqativ :3", "id": "744276454946242723" }],
+	"name": "NoEdit",
+	"description": "Keeps edited messages, untill you dismiss them or restart the app",
+	"authors": [{ "name": "meqativ :3 BUT LOGROI CHANGDX 20 CJARACTERS", "id": "951926788093788271" }],
 	"main": "./index.js",
 	"vendetta": { "icon": "ic_hide_24px" }
 }
